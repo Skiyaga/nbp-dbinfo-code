@@ -18,4 +18,4 @@ category
 
 5. Commit them both to the repo.
 
-6. Notify Yamil that a commit has been made: yamil.booirizarry @ nih.gov
+6. Notify Yamil that a commit has been made: yamil.booirizarry at nih.gov
